@@ -23,8 +23,8 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Ant+Ivy build.
 ![execution of the JAR file ](images/ant-JAR-execution.png)
 - [10 pts] Links to the complete and correct [hello-world/build.xml](hello-world/build.xml) and [hello-world/ivy.xml](hello-world/ivy.xml) files.
-![hello-world/build.xml](hello-world/build.xml) 
-![hello-world/ivy.xml](hello-world/ivy.xml)
+- Here: ![hello-world/build.xml](hello-world/build.xml) 
+- Here: ![hello-world/ivy.xml](hello-world/ivy.xml)
 # Maven [30 pts]
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
 ![Maven install1](images/Maven-install-1.png)
@@ -35,9 +35,14 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![JAR execution with Maven](images/Maven-jar-execution.png)
 - [10 pts] Links to the complete and correct [hello-world/pom.xml](hello-world/pom.xml) file.
 
-![hello-world/pom.xml](hello-world/pom.xml)
+- Here: ![hello-world/pom.xml](hello-world/pom.xml)
 # Gradle [30 pts]
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
+![Gradle install1](images/Gradle-install-1.png)
+![Gradle install2](images/Gradle-install-2.png)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+![Gradle build](images/Gradle-build.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
+![Gradle jar execution](images/Gradle-jar-execution.png)
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
+- Here: [hello-world/build.gradle](hello-world/build.gradle)
