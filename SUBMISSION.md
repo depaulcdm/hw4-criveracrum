@@ -1,7 +1,7 @@
 # Instructions
 Chadwick Rivera-Crum 1978229
 
-![Images are here](images)
+Images are here: (images)
 
 **HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
 
