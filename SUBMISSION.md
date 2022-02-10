@@ -1,7 +1,7 @@
 # Instructions
-**TODO:** Replace this line with your name and student ID.
+Chadwick Rivera-Crum 1978229
 
-**TODO:** Add your screen captures to a new directory called [images](images).
+![Images are here](images)
 
 **HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
 
