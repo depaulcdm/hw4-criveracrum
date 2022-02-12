@@ -29,6 +29,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
 ![Maven install1](images/Maven-install-1.png)
 ![Maven install2](images/Maven-install-2.png)
+![Maven install Directory](images/Maven-install-dir.png)
 - [10 pts] A screen capture showing a successful build using the Maven script.
 ![Maven successful build](images/Maven-build-success.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Maven build.
@@ -40,6 +41,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
 ![Gradle install1](images/Gradle-install-1.png)
 ![Gradle install2](images/Gradle-install-2.png)
+![Gradle install directory](images/Gradle-install-dir.png)
 - [10 pts] A screen capture showing a successful build using the Gradle script.
 ![Gradle build](images/Gradle-build.png)
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
